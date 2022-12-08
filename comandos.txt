@@ -1,0 +1,10 @@
+npm init -y     > instalar proyecto
+
+Instalar dependencias 
+express         > framework de node para crear rutas, apps, etc. 
+mongoose        > permite conectar el servidor a la bd 
+jsonwebtoken    > crear tokens 
+bcryptjs        > cifrar datos 
+npm i express mongoose jsonwebtoken bcryptjs 
+
+npm i nodemon -D
